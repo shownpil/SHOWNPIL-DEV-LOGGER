@@ -1,0 +1,61 @@
+
+# SHOWNPIL DEV LOG
+
+개발 활동, 기술 학습, 프로젝트 진행 상황을 기록합니다.
+
+## Projects
+- 베일로 (URL 단축 사이트)
+- 머니트리 (MONEY LOGGER)
+- 베이가드 (APP LOCK)
+- 메일리스 (WEB MAIL)
+
+## Development Log
+
+### 2026-10-09
+-   전용 데이터 베이스(DB)구축
+-   hMailServer 구축
+-   전용 웹사이트 구축
+-   전용 인증서 발급 (GMAIL 연동)
+
+## Development Entry Template
+
+새로운 기록 추가
+
+### 2026-10-10 | SHOWNPIL-WEBMAIL
+- **작업 내용:**
+- 머니트리:
+  1. 수입 | 지출 기록 기능
+  2. 월별 자금 기능
+  3. 고정 지출 관리 기능
+
+  
+- **변경 사항:**
+-   프로젝트 웹사이트/애플리케이션 네임 제작(고유명 변경/확정)
+  
+- **사용 기술:**
+-   HTML/CSS
+-   JAVA SCRIPT
+-   PHP
+-   hMailServer(IMAP/IMTP&SSL&TLS/SMTP2GO)
+-   Kotlin (머니 트리 PROJ.)
+
+- **결과:**
+-   머니트리:
+  -  홈페이지 전체적 디자인 완료 (기능 파일로 인해 실제 앱 개선 예정)
+  -  수입 | 지출 기록 출력 완료 (코딩 파일 및 실제 앱 개선 예정)
+  -  월별 자금 기능 출력 완료 (코딩 파일 및 실제 앱 개선 예정)
+  -  고정 지출 관리 기능 출력 완료 (코딩 파일 및 실제 앱 개선 예정)
+  
+- **다음 작업:**
+-   머니트리: (애플리케이션 작업 실행(2026-10-10~)
+  -  카드 할부 관리 기능
+  -  내부 데이터 저장 기능(서버 기능)
+  -  금융 API 설치 예정
+-  메일리스: 수신 파일 업로드 2MB -> 5MB 데이터 수정
+
+## Skills to Develop
+- Web Development
+- Application Development
+- Database Design
+- Server Administration
+- API Integration
